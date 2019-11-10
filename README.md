@@ -7,7 +7,7 @@ Record/Capture RTSP streams as .mp4 to your computer.
   brew install ffmpeg
   
 ## Usage:
-./mRTSPrecorder
+./mRTSPrecorder.sh
 
 ## Creator: 
 c0d3d.space
