@@ -3,6 +3,13 @@
 # c0d3d.space
 clear
 echo ""
+echo "  .,-:::::       :::::::-.   .::.  :::::::-.    "
+echo " ,;;;‘‘‘‘‘   ,;;, ;;,   ‘‘;,;‘‘‘;;, ;;,   ‘‘;,  "
+echo " [[[        ,[‘  [n‘[[     [[   .n[[ ‘[[     [[ "
+echo " SSS        SS    SSSS,    SS  ‘‘‘SSS.SS,    SS "
+echo " ‘88bo,__,o,Y8,  ,8‘888_,o8P‘  ,,o888‘888_,o8P‘ "
+echo "   ‘YUMMMMMP‘‘YmmP  MMMMP‘‘    YMMP‘  MMMMP‘‘space"
+echo ""
 echo "           _____ _______ _____ _____  "
 echo "          |  __ \__   __/ ____|  __ \ "
 echo " _ __ ___ | |__) | | | | (___ | |__) |"
@@ -10,7 +17,6 @@ echo "| '_ ' _ \|  _  /  | |  \___ \|  ___/ "
 echo "| | | | | | | \ \  | |  ____) | |     "
 echo "|_| |_| |_|_|  \_\ |_| |_____/|_|     "
 echo "S T R E A M - R E C O R D E R - v1.0  "
-echo "by c0d3d.space"
 echo ""
 read -p "Enter RTSP URL (without 'rtsp://', e.g. '192.168.1.15:554/live/ch0'): " STREAM
 echo ""
